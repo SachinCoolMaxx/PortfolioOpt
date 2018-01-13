@@ -4,4 +4,4 @@ Portfolio Optimization basically tries to address the question - if one gives an
 
 Simulations and Experiments were performed using MATLAB. The final report concisely explains all the results obtained and the inferences.
 
-For reference - Cite Sachin Goyal and Shiva Gantha, Indian Institute of Technology, Bombay.
+For reference - Cite Sachin Goyal(150020069) and Shiva Gantha, Indian Institute of Technology, Bombay.
